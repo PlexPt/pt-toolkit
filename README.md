@@ -1,12 +1,16 @@
 # 开发常用一揽子工具包
 
-
+##步骤
+1. 发布release
+2. 等待action自动构建完成
+3. 去 https://oss.sonatype.org/#stagingRepositories 点击release
 
 
 
 ## 参考
 自动1
 https://segmentfault.com/a/1190000039716048
+
 自动2
 https://monkeywie.cn/2020/11/06/maven-deploy-to-nexus-by-github-action/
 
