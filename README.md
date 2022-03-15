@@ -3,13 +3,10 @@
   <p align="center" >      <a href="https://maven-badges.herokuapp.com/maven-central/com.github.plexpt/toolkit/">
             <img src="https://maven-badges.herokuapp.com/maven-central/com.github.plexpt/toolkit/badge.svg" >
         </a>
-          </p>
+ </p>
 
-## 步骤
-1. 发布release
-2. 等待action自动构建完成
-3. 去 https://oss.sonatype.org/#stagingRepositories 点击release
 
+## 使用
 ```
 <!-- https://mvnrepository.com/artifact/com.github.plexpt/toolkit -->
 <dependency>
@@ -17,10 +14,17 @@
     <artifactId>toolkit</artifactId>
     <version>2022.2.0</version>
 </dependency>
-
 ```
 
-## 参考
+## 发布步骤
+
+1. 发布release
+2. 等待action自动构建完成
+3. 去 https://oss.sonatype.org/#stagingRepositories 点击release
+
+
+
+## 自动发布参考
 自动1
 https://segmentfault.com/a/1190000039716048
 
