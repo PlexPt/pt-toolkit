@@ -5,7 +5,15 @@
 2. 等待action自动构建完成
 3. 去 https://oss.sonatype.org/#stagingRepositories 点击release
 
+```
+<!-- https://mvnrepository.com/artifact/com.github.plexpt/toolkit -->
+<dependency>
+    <groupId>com.github.plexpt</groupId>
+    <artifactId>toolkit</artifactId>
+    <version>2022.2.0</version>
+</dependency>
 
+```
 
 ## 参考
 自动1
