@@ -1,5 +1,10 @@
 # 开发常用一揽子工具包
 
+  <p align="center" >      <a href="https://maven-badges.herokuapp.com/maven-central/com.github.plexpt/toolkit/">
+            <img src="https://maven-badges.herokuapp.com/maven-central/com.github.plexpt/toolkit/badge.svg" >
+        </a>
+          </p>
+
 ## 步骤
 1. 发布release
 2. 等待action自动构建完成
