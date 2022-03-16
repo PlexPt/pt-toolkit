@@ -1,6 +1,6 @@
 # 开发常用一揽子工具包
 
-  <p align="center" >      <a href="https://maven-badges.herokuapp.com/maven-central/com.github.plexpt/toolkit/">
+  <p align="center" >      <a href="https://mvnrepository.com/artifact/com.github.plexpt/toolkit">
             <img src="https://maven-badges.herokuapp.com/maven-central/com.github.plexpt/toolkit/badge.svg" >
         </a>
  </p>
