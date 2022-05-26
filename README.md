@@ -12,7 +12,7 @@
 <dependency>
     <groupId>com.github.plexpt</groupId>
     <artifactId>toolkit</artifactId>
-    <version>2022.5.0</version>
+    <version>2022.6.0</version>
 </dependency>
 ```
 
