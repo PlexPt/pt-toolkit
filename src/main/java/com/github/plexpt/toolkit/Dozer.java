@@ -19,10 +19,6 @@ import javax.annotation.PostConstruct;
  * dozer转换类
  *
  *
- * @author liyue
- * @version v2
- * @create 2019-03-13 15:35:10
- * @copyright www.liderong.cn
  */
 @Component
 public class Dozer {
