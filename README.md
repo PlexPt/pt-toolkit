@@ -46,10 +46,10 @@ gpg --gen-key
 gpg --list-keys
 
 gpg --keyserver https://keys.openpgp.org/ --send-keys D16494BFCDC100DF5F051D4335BEE09515BF6AB1
-# 上传完应有邮件提示，或者换服务器
-http://pgp.mit.edu:11371/
-https://keys.openpgp.org/
-http://keyserver.ubuntu.com:11371/
+上传完应有邮件提示，或者换服务器
+ - http://pgp.mit.edu:11371/
+ - https://keys.openpgp.org/
+ - http://keyserver.ubuntu.com:11371/
 
 
 gpg -a --export-secret-keys D16494BFCDC100DF5F051D4335BEE09515BF6AB1
