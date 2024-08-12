@@ -58,7 +58,7 @@
         <commons.io.version>2.11.0</commons.io.version>
         <commons.math.version>3.6.1</commons.math.version>
         <commons.compress.version>1.19</commons.compress.version>
-        <commons.codec.version>1.15</commons.codec.version>
+        <commons.codec.version>1.17.1</commons.codec.version>
         <commons.text.version>1.8</commons.text.version>
         <commons.collections4.version>4.4</commons.collections4.version>
         <commons.configuration.version>1.10</commons.configuration.version>
